@@ -3,7 +3,7 @@
 Learning, Data Science, and Data Structures & Algorithms. 🇮🇳</h3>
 <h3 align="center">A passionate MERN Developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathrithedev&label=Profile%20views&color=0e75b6&style=flat" alt="gayathrithedev" /> </p>
+
 
 <p align="left"> <a href="https://www.instagram.com/.pragaa.?igsh=MzY4aDU0MXBhcDI%3D&utm_source=qr" target="blank"><img src="https://img.shields.io/twitter/follow/_.praga._?logo=twitter&style=for-the-badge" alt="_.praga._" /></a> </p>
 
